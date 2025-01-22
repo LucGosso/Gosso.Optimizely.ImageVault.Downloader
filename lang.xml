@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<languages>
+  <language name="English" id="en">
+    <episerver>
+      <cms>
+		<components>
+			<media>
+				<importimagevault>Import from ImageVault</importimagevault>
+			</media>		
+		</components>
+      </cms>
+    </episerver>
+  </language>
+	<language name="Svenska" id="sv">
+		<episerver>
+			<cms>
+				<components>
+					<media>
+						<importimagevault>Importera från Imagevault</importimagevault>
+					</media>
+				</components>
+			</cms>
+		</episerver>
+</language>
+</languages>
