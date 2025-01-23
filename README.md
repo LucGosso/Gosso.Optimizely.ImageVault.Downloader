@@ -5,10 +5,21 @@ This extension allows you to download images as ImageData with ContentReference 
 ## How it works
 
 1. Right-click on a media folder in the media pane.
-2. Choose your desired image and a rendering.
-3. The image is downloaded to the media folder, and an ImageData object is created.
+   
+   ![upload](https://github.com/user-attachments/assets/92a987f9-9320-4c17-89f6-80721744213e)
+
+3. Choose your desired image and a rendering.
+
+![choose image](https://github.com/user-attachments/assets/5a579cfe-5af5-4d4e-80b5-1e7a868fcaff)
+
+   
+5. The image is downloaded to the media folder, and an ImageData object is created.
     - Metadata such as Alt-Text can be extracted from ImageVault
-4. You can then use the ImageData object as a default image in the default image property or XHTML.
+  
+![AltText imported](https://github.com/user-attachments/assets/acc3a313-c73c-4f20-a6f2-942d11e02a36)
+
+      
+6. You can then use the ImageData object as a default image in the default image property or XHTML.
 
 ## Installation
 
